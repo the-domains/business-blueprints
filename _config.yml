@@ -1,0 +1,28 @@
+name: Business Blueprints
+favicon: null
+layout_spectrum: 0.8074372527189553
+typography_spectrum: 0.3051785754505545
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7021928008180112
+  lightness: 0.0011378051713109016
+  saturation: 0.8287554599810392
+  rhythmicContrast: 0.7602081927470863
+purpose: []
